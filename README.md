@@ -6,10 +6,10 @@
 ### 🌐 Connect with me:
 <p align="center">
   <a href="https://github.com/RahmatjonMatkarimov" target="_blank">
-    <img src="https://github.com/fluidicon.png" />
+    <img src="https://github.com/fluidicon.png"width="40" height="40" />
   </a>
   <a href="https://www.instagram.com/rahmatjon_web" target="_blank">
-    <img src="https://static.cdninstagram.com/rsrc.php/y4/r/QaBlI0OZiks.ico" />
+    <img src="https://static.cdninstagram.com/rsrc.php/y4/r/QaBlI0OZiks.ico"width="40" height="40" />
   </a>
 </p>
 
