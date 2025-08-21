@@ -11,6 +11,9 @@
   <a href="https://www.instagram.com/rahmatjon_web" target="_blank">
     <img src="https://static.cdninstagram.com/rsrc.php/y4/r/QaBlI0OZiks.ico"width="40" height="40" />
   </a>
+    <a href="https://t.me/Rahmatjon_web" target="_blank">
+    <img src="https://telegram.org/img/favicon.ico" width="40" height="40"/>
+  </a>
 </p>
 
 ---
